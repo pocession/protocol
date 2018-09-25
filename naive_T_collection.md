@@ -13,10 +13,6 @@
 8.	Suspend splenocytes with 10ml ACK lysis buffer. Stand the tube at RT for 10min.
 9.	300g, 5min, RT. Discard the supernatant.
 10.	Suspend all cells in total 10ml MACS buffer.
-11.	Put a 40-um cell strainer on top of a 50-ml tube.
-12.	Transfer cells to the new 50-ml tubes through the 40-um strainer.
-13.	Add another 5ml MACS buffer to rinse the original tube, and transfer remained MACS buffer to the new 50-ml tube through the 40-um strainer.
-(Step11-13 may be skipped If harvesting cells from less than 2 mice. However, when harvesting from more than 4 mice, it’s better to perform step11-13 to avoiding cell clogs in the following steps) 
 14.	Transfer all cells to a new 15-ml tube. Count cell number.
 15.	300g, 5min, 4C. Discard the supernatant.
 16.	Suspend cell in 90ul MACS buffer for per 108 cells.
