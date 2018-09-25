@@ -1,4 +1,4 @@
-# Collect BAL
+# Collecting BAL
 1.	500g, 5min, 4C, transfer all supernatant to another 1.5-ml tube.
 2.	10000g, 5min, 4C, transfer all supernatant to another 1.5-ml tube, store at -80C. (For ELISA analysis)
 3.	If there are many red cells, add 100ul ACK buffer to suspend cell pellet, or directly go to step 6.
@@ -7,7 +7,7 @@
 6.	Remove supernatant, suspend in 100ul of PBS-W, keep at 4C.
 7.	Repeat the wash step again. (Step 6-7)
 8.	Count cell number.
-# staining for eosinophils
+# Surface staining for eosinophils
 9.	Staining with No.22 (Zombine NIR), No. 5 (aCD16/32/aFcR, clone 93). Antibody dilution rate = 1/400X.
 10.	Stand at 4C for 15min.
 11.	Stain with NO.226 (BV510 aCD11b), No.223 (PerCP/Cy5.5 aSF), No. 205 (APC aF4/80), No. 175 (PE aCD11c). Antibody dilution rate, NO.226, No.223, No. 175 = 1/800X; No. 205 = 1/400X.
