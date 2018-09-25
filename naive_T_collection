@@ -1,8 +1,8 @@
-#Before experiment:
+# Before experiment:
 1.	Prepare 200ml MACS buffer: 190ml auto MACS rinsing solution, 10ml MACS BSA stock solution, place the buffer on ice
 2.	Prepare PBS-W: PBS containing 2% FBS, 50ml PBS, 1ml FBS
 
-#Harvesting Naïve T from spleen and lymph nodes:
+# Harvesting Naïve T from spleen and lymph nodes:
 1.	Sacrifice mice by CO2
 2.	Take lymph nodes and spleen, place it into a 1.5-ml tube containing 1ml MACS buffer (MACS buffer: Rinse + 0.5% BSA). Put it on ice.
 3.	Put a 70-um cell strainer on top of a 50-ml tube.
@@ -26,7 +26,7 @@
 20.	300 g for 5 min at 4°C, remove supernatant.
 21.	Suspend in 3 ml MACS buffer.
 
-#MACS beads:
+# MACS beads:
 1.	Balance the column by 3ml MACS buffer.
 2.	Apply cell into the column
 3.	Add another 3ml MACS buffer into the tube, and apply the wash fluids to the column
@@ -39,7 +39,7 @@
 10.	Suspend cells in PBSW, make the density is 108 cell/ml (107 cell/100ul)
 
 
-#FACS staining:
+# FACS staining:
 1.	Use those four Abs: #203(APC-CD25), #214(PE-CD62L), #156(BV-CD4), #140(Percp/Cy5-5-CD44)
 2.	Add 1ul of each Abs for 2E+7 cell
 3.	Wrap the tube with aluminum foil, Incubate on ice for 1hr
@@ -50,14 +50,14 @@
 8.	Go to FACS sorting
 9.	During sorting, put place sorted cells on ice
 
-#Anti-CD3 plate pre-coating:
+# Anti-CD3 plate pre-coating:
 1.	Make a 1/200X dilution of anti-CD3 antibody (No.1) in PBS buffer
 (for 10rxns: add 20ul into 4ml PBS buffer; for 20rxns: add 40ul into 8ml PBS buffer)
 2.	Add 400ul (24-well plate), 200ul(48-well plate) or 100ul(96-well plate) into each well
 3.	Incubate at 37C 5% CO2 for 2 hours
 4.	After incubation, wash three times by 150ul PBS
 
-#Cytokines stimulation and cell seeding:
+# Cytokines stimulation and cell seeding:
 1.	Prepare cytokines according to the preparation sheet
 2.	Centrifuge cell from FACS sorting, 4C, 560g, 5min (Cells are lighter after sorting) 
 3.	Suspend cells and adjust the cell density to 2*106/ml medium. (for 24-well plate)
@@ -65,4 +65,4 @@
 5.	Add 200ul of cells per well (seeding: 0.4*106/well)
 6.	Add 200ul of medium plus cytokines per well
 7.	Mix gently, incubate cell at 37C for 72 hours
-#-> follow ICS protocol or RNA extraction
+# Following ICS protocol or RNA extraction
